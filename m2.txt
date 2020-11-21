@@ -2,4 +2,4 @@ m2 text added in feature
 m2 text added in main
 m2 file is added in subfeature
 m2 file is added in subfeature
-m2 file again added in subfeature
+m2 file again added in subfeature2
